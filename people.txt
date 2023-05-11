@@ -1,0 +1,10 @@
+Boris, male, 1.0
+John, male, 1.0
+Casey, male, 0.73
+Piter, male, 0.98
+Gean, male, 0.82
+Iris, female, 0.99
+Dmytro, male, 1.0
+Mike, male, 1.0
+Plush, male, 0.53
+Kkl, male, 0.7
